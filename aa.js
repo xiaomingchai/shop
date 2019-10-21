@@ -1,1 +1,3 @@
-就撒娇六十六点三六点就撒了
+function(){
+document.write('啊哈哈');
+}
